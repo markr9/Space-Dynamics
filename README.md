@@ -16,7 +16,7 @@ transfer3: plots the hyberbolic orbit of a probe from the lunar surface to 6 rad
 
 planetparameters2: mass and radius parameters of the object being orbited. (current Sun).
 transfereqns3: applies the equations of motion (under gravity). 
-transfer4vf: plots the grand tour of hte solar system using Hohmann transfer orbits.
+transfer4vf: plots the grand tour of the solar system using Hohmann transfer orbits.
 (gravsun)
 
 lam2 and lam3: tests to Lambert theory.
