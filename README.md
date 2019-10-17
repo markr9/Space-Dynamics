@@ -1,7 +1,7 @@
 # Space-Dynamics
 Space dynamics code written at university
 
-scaleheight: plots how air density varies with scale height.
+scaleheight: plots how the air density varies with scale height.
 
 gravsun: finds the gravitational force of the Sun (or any object defined in planetparameters) at the current posistion.
 transfereqns: applies the equations of motion (under gravity). 
@@ -21,11 +21,11 @@ transfer4vf: plots the grand tour of the solar system using Hohmann transfer orb
 
 lam2 and lam3: tests to Lambert theory.
 
-centreofmass2: calculates the centre of mass of hte configuration (1st config).
-iss: works out the moment of inertia matrix for the mass distribution and works out hte eigen- vectors and values.
-centreofmass3: for 2nd configuration
+centreofmass2: calculates the centre of mass of the configuration (1st configuration).
+iss: works out the moment of inertia matrix for the mass distribution and works out the eigen- vectors and values.
+centreofmass3: CoM for 2nd configuration.
 centreofmass4: sets and the checks the mass configuration is the the centre of mass frame.
-iss2: for 2nd config.
+iss2: for 2nd configuration.
 
 rorbits: plots the ballistic trajector (orbit) between 2 locations from a burnout of given height and velocity. 
 
