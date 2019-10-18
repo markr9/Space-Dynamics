@@ -27,6 +27,6 @@ centreofmass3: CoM for 2nd configuration.
 centreofmass4: sets and the checks the mass configuration is the the centre of mass frame.
 iss2: for 2nd configuration.
 
-rorbits: plots the ballistic trajector (orbit) between 2 locations from a burnout of given height and velocity. 
+rorbits: plots the ballistic trajectory (orbit) between 2 locations from a burnout of given height and velocity. 
 
 (Some code maybe subject to external copyright).
